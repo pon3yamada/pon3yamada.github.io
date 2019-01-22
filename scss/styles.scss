@@ -294,14 +294,6 @@ footer {
 
 .btn-rounded-white {
     display: inline-block;
-    color: #fff;
-    border-radius: 30px;
-    @include transition();
-
-    &:hover {
-        color: $base-color;
-        background: #fff;
-        text-decoration: none;
     }
 }
 
